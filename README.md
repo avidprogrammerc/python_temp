@@ -1,6 +1,6 @@
 Python Temperature Tool
 -----------------------
-This python script will report the current Raspberry Pi
+This python script will report the current Raspberry Pi.
 
 Run `chmod 744 temp.py` to apply the correct permission to the file.
 
