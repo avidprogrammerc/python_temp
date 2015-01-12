@@ -8,7 +8,7 @@ Note to execute the file, python3.2 must be installed in /usr/bin/
 
 Sample execution:  
 ```text
-    $ ./temp.py  
-    $ 38.0'C  
-    $ 100.4'F
+$ ./temp.py  
+$ 38.0'C  
+$ 100.4'F
 ```
